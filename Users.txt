@@ -1,0 +1,8 @@
+username|password|Admin
+Jason H|12345|Admin
+Joseph P|abcdef|Admin
+Christopher P|11111|User
+Joe Blop|aaaaa|User
+Jimmy Dean|zxcvb|Admin
+John Smith|qwert|User
+Jason H|12345|Admin
